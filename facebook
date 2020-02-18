@@ -1,5 +1,6 @@
-############################################
-# To Completely Block Facebook
+# Title: Montanadude/hosts known for facebook
+# This hosts file is a merged collection of hosts from reputable sources,
+# To Completely Block Facebook,whatsapp and instagram
 # Add these entries below to your hosts file
 #
 # Your hosts file Location:
@@ -14,7 +15,7 @@
 # facebook.com entry; you'll need to add an exception to tell the OS
 # to keep the block listing in the hosts file and not to remove it
 #
-############################################
+#
 # Custom host records are listed here.
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
